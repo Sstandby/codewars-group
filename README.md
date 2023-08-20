@@ -4,7 +4,7 @@ Welcome to level 8 in kyu, each level will be indexed with its accompanying prob
 
 ## Contributors 💜
 
-Thanks to these wonderful people for contributing. <a href="https://github.com/SStandby/home/graphs/contributors"><img src="https://opencollective.com/codewars-group/contributors.svg?width=890&button=false" /></a>
+Thanks to these wonderful people for contributing. <a href="https://github.com/SStandby/codewars-group/graphs/contributors"><img src="https://opencollective.com/codewars-group/contributors.svg?width=890&button=false" /></a>
 
 ## License
 
