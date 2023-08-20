@@ -11,4 +11,4 @@ Thanks to these wonderful people for contributing. <a href="https://github.com/S
 
 This project is released under the terms of the [MIT License.][mit] <3
 
-[mit]: https://github.com/Sstandby/home/blob/master/LICENSE
+[mit]: https://github.com/Sstandby/codewars-group/blob/master/LICENSE
