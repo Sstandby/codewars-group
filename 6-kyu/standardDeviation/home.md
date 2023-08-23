@@ -1,3 +1,5 @@
+
+
 A specialist of statistics was hired to do an investigation about the people's voting intention for a certain candidate for the next elections.
 
 Unfortunately, some of the interviewers, hired for the researches, are not honest and they want to modify the results because, some of them like the candidate too much, or others hate him.
@@ -9,7 +11,8 @@ He does not know who of them are cheating and obviously, he doesn´t know the mi
 The method works with the following steps explained below:
 
 The method calculates the mean, μ, and the standard deviation, σ for the received data that has n elements.
-source: imgur.com
+
+![author: codewars](https://i.imgur.com/qi97XWq.png?2)
 
 A new data is obtained discarding all the values that are not in the range [μ - 2.5σ, μ + 2.5σ] (strictly lower or higher than these extremes)
 
